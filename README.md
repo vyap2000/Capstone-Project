@@ -1,5 +1,6 @@
 ## Capstone Project
-### Title:    Skytrax Airlines Customer Satisfaction Analytics
+### Project Name:    
+##    Skytrax Airlines Customer Satisfaction Analytics
 #
 #
 #
